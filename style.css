@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(/pic.html);
+
+    
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+  
+
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+
+}
